@@ -1,9 +1,13 @@
 # GeoCorps Website
 
 The purpose of this repo is to host GeoCorps Website for Volunteers and Clients. 
-<br>
+<br><br>
 People can apply to be a volunteer or a client
-<br>
+<br><br>
 The page will also feature links to BayGeo membership and events
+<br><br>
+<a href="https://geo-corps.github.io/website/">https://geo-corps.github.io/website//</a>
+<br><br>
+  <a href="mailto:adewade@gmail.com?Subject=Feedback">Send me feedback!</a>
 
 
